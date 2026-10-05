@@ -1,0 +1,6 @@
+{
+  "name": "Maison Éclat Cacao",
+  "description": "Artisanal bean-to-bar chocolatier crafting single-origin grand cru chocolate bars, hand-painted ganache bonbons, and velvet drinking chocolates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
